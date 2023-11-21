@@ -1,5 +1,5 @@
 >![working-with-forms](https://github.com/RodrigoSCurcio/working-with-forms/assets/59969422/a6422187-1fde-4556-a22f-99e6caf48126)
- Status: Em Finalizado 👌🏼
+ Status: Finalizado 👌🏼
 
 
 ### Aplicação utilizando Vue.js
